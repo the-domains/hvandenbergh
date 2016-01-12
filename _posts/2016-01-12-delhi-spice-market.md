@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Chili's on the spice market in Old Delhi. This is the wholesale market, where large quantities can be bought"
-datePublished: '2016-01-12T17:22:03.942Z'
-dateModified: '2016-01-12T17:20:15.834Z'
+description: "Chili's on the spice market in Old Delhi. This is the wholesale market, where large quantities can be bought. But there is a large part where you can buy the spices in lower quantities."
+datePublished: '2016-01-12T17:54:02.972Z'
+dateModified: '2016-01-12T17:53:57.141Z'
 title: Delhi spice market
 author: []
+sourcePath: _posts/2016-01-12-delhi-spice-market.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-delhi-spice-market.md
-published: true
 url: delhi-spice-market/index.html
 _type: Article
 
