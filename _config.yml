@@ -1,7 +1,7 @@
 name: hvandenbergh
 favicon: null
-layout_spectrum: 0.5294436337426305
-typography_spectrum: 0.6205245123710483
+layout_spectrum: 1
+typography_spectrum: 0.00104
 cta:
   domain: null
   bucket: null
