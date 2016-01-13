@@ -1,9 +1,7 @@
-favicon: null
 name: hvandenbergh
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7287863
+typography_spectrum: 0.00104
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.8125
-  brandStrength: 0
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 1
-typography_spectrum: 0.00104
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.7287863
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#080b10'
+    - '#868b8e'
+    - '#f7da56'
+    - '#3460b7'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.5
+purpose: []
