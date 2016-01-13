@@ -2,35 +2,28 @@
     <channel>
         <title><![CDATA[hvandenbergh]]></title>
         <description><![CDATA[hvandenbergh]]></description>
-        <link>http://www.hvandenbergh.com/</link>
+        <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 15:14:20 GMT</lastBuildDate>
-        <atom:link href="http://www.hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 16:19:54 GMT</lastBuildDate>
+        <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to my new site, created on 'The Grid' </p>]]></description>
-            <link>http://www.hvandenbergh.com/aabf7f56-821f-4967-a3b6-56b2d4a31ac8/index.html</link>
+            <link>http://hvandenbergh.com/aabf7f56-821f-4967-a3b6-56b2d4a31ac8/index.html</link>
             <guid isPermaLink="false">aabf7f56-821f-4967-a3b6-56b2d4a31ac8</guid>
             <pubDate>Wed, 13 Jan 2016 09:51:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://soundcloud.com/zakabel/zak-abel-say-sumthin</p>]]></description>
-            <link>http://www.hvandenbergh.com/8065814b-2062-441d-8ecc-b216f654ccc2/index.html</link>
-            <guid isPermaLink="false">8065814b-2062-441d-8ecc-b216f654ccc2</guid>
-            <pubDate>Wed, 13 Jan 2016 15:13:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some Shoreditch streetart]]></title>
             <description><![CDATA[<article><h1>Some Shoreditch streetart</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0b1a125828615867f5219f1c7d12b8e6f8e634e.jpg"></article>]]></description>
-            <link>http://www.hvandenbergh.com/some-shoreditch-streetart/index.html</link>
+            <link>http://hvandenbergh.com/some-shoreditch-streetart/index.html</link>
             <guid isPermaLink="false">38096e9e-5523-4a52-9362-e7308d0e8cbe</guid>
             <pubDate>Wed, 13 Jan 2016 14:47:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moro]]></title>
             <description><![CDATA[<article><h1>Moro</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62936d605d2fa92d3ce8acc4ac535f89149c0078.jpg"></article>]]></description>
-            <link>http://www.hvandenbergh.com/moro/index.html</link>
+            <link>http://hvandenbergh.com/moro/index.html</link>
             <guid isPermaLink="false">52a89410-cf75-4e99-95bf-3cc557612e16</guid>
             <pubDate>Wed, 13 Jan 2016 14:21:14 GMT</pubDate>
         </item>
@@ -44,7 +37,7 @@
         <item>
             <title><![CDATA[Delhi spice market]]></title>
             <description><![CDATA[<article><h1>Delhi spice market</h1><p>It doesn't get more lively than on the spice market in Old Delhi. We took pictures at the wholesale market (the spice tower) where you see large quantities of chili's & spices. There are loads of shops selling spices in smaller quantities. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f500e0e407f1adda950f972b63ded2aa3c82f2f.jpg"></article>]]></description>
-            <link>http://www.hvandenbergh.com/delhi-spice-market/index.html</link>
+            <link>http://hvandenbergh.com/delhi-spice-market/index.html</link>
             <guid isPermaLink="false">1b71581b-44c7-4be3-af10-6ea0f0f39a16</guid>
             <pubDate>Wed, 13 Jan 2016 09:11:30 GMT</pubDate>
         </item>
