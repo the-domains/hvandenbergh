@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:36232127-bcda-49f5-8da4-4054760d846d'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-13T18:14:30.004Z'
+dateModified: '2016-01-13T18:14:23.763Z'
 author: []
-datePublished: '2016-01-13T17:31:08.091Z'
-publisher:
-  domain: ''
-  name: ''
 title: My cup of tea
-dateModified: '2016-01-13T17:29:17.429Z'
 sourcePath: _posts/2016-01-13-my-cup-of-tea.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: my-cup-of-tea/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
