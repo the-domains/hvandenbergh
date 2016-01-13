@@ -4,7 +4,7 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 17:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 17:31:21 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://hvandenbergh.com/aabf7f56-821f-4967-a3b6-56b2d4a31ac8/index.html</link>
             <guid isPermaLink="false">aabf7f56-821f-4967-a3b6-56b2d4a31ac8</guid>
             <pubDate>Wed, 13 Jan 2016 09:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My cup of tea]]></title>
+            <description><![CDATA[<article><h1>My cup of tea</h1><p>Choices, choices, choices @crusiothee</p><img src="https://pbs.twimg.com/media/CYncvpRUsAAyXk-.jpg:large"></article>]]></description>
+            <link>http://hvandenbergh.com/my-cup-of-tea/index.html</link>
+            <guid isPermaLink="false">77dbfbc6-982a-427d-8a52-d58930237a54</guid>
+            <pubDate>Wed, 13 Jan 2016 17:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
