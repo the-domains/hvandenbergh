@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Chili's on the spice market in Old Delhi. This is the wholesale market, where large quantities can be bought. But there is a large part where you can buy the spices in lower quantities."
-datePublished: '2016-01-13T06:58:55.624Z'
-dateModified: '2016-01-13T06:58:34.784Z'
+datePublished: '2016-01-13T07:39:04.332Z'
+dateModified: '2016-01-13T07:38:52.750Z'
 title: Delhi spice market
 author: []
 sourcePath: _posts/2016-01-12-delhi-spice-market.md
@@ -25,4 +25,6 @@ _type: Article
 Chili's on the spicemarket in Old Delhi
 
 It doesn't get more lively than on the spice market in Old Delhi. We took pictures at the wholesale market (the spice tower) where you see large quantities of chili's & spices. There are loads of shops selling spices in smaller quantities. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeecabce-55cb-4831-beec-ca40ff72f38e.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c5cf61-8b90-48e8-bb64-00a55d09f2cf.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d47c355c-d084-4667-b118-4acbf6f622ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/017cda06-1142-4e1c-935b-f25a00a622c2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcb0c155-c72c-4012-8efc-03b20e76de85.JPG)
