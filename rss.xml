@@ -4,7 +4,7 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 21:17:02 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://hvandenbergh.com/aabf7f56-821f-4967-a3b6-56b2d4a31ac8/index.html</link>
             <guid isPermaLink="false">aabf7f56-821f-4967-a3b6-56b2d4a31ac8</guid>
             <pubDate>Wed, 13 Jan 2016 09:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CW6HiBxUoAI7y5C.png:large">]]></description>
+            <link>http://hvandenbergh.com/7cf112fd-cbd1-4a48-9a6d-658658b16836/index.html</link>
+            <guid isPermaLink="false">7cf112fd-cbd1-4a48-9a6d-658658b16836</guid>
+            <pubDate>Thu, 14 Jan 2016 21:16:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[Moro]]></title>
-            <description><![CDATA[<article><h1>Moro</h1><p>Some dishes from one of my favorite restaurants, Moro in Exmouth Market, London</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62936d605d2fa92d3ce8acc4ac535f89149c0078.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Moro</h1><p>A number of dishes from one of my all-time favourite restaurants, Moro in Exmouth Market, London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62936d605d2fa92d3ce8acc4ac535f89149c0078.jpg"></article>]]></description>
             <link>http://hvandenbergh.com/moro/index.html</link>
             <guid isPermaLink="false">52a89410-cf75-4e99-95bf-3cc557612e16</guid>
             <pubDate>Thu, 14 Jan 2016 16:35:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/hvandenbergh/status/686526930087243776</link>
             <guid isPermaLink="false">75c6891c-d6e1-4805-a73e-3eaf10086df4</guid>
             <pubDate>Wed, 13 Jan 2016 18:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delhi spice market]]></title>
-            <description><![CDATA[<article><h1>Delhi spice market</h1><p>It doesn't get more lively than on the spice market in Old Delhi. We took pictures at the wholesale market (the spice tower) where you see large quantities of chili's & spices. There are loads of shops selling spices in smaller quantities. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f500e0e407f1adda950f972b63ded2aa3c82f2f.jpg"></article>]]></description>
-            <link>http://hvandenbergh.com/delhi-spice-market/index.html</link>
-            <guid isPermaLink="false">1b71581b-44c7-4be3-af10-6ea0f0f39a16</guid>
-            <pubDate>Wed, 13 Jan 2016 09:11:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
