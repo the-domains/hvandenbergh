@@ -4,7 +4,7 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 16:19:01 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://hvandenbergh.com/aabf7f56-821f-4967-a3b6-56b2d4a31ac8/index.html</link>
             <guid isPermaLink="false">aabf7f56-821f-4967-a3b6-56b2d4a31ac8</guid>
             <pubDate>Wed, 13 Jan 2016 09:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a044567b-18b1-4a28-b7b3-fff6694e1748.jpg">]]></description>
+            <link>http://hvandenbergh.com/135dec21-1c63-448c-992f-2197b941855a/index.html</link>
+            <guid isPermaLink="false">135dec21-1c63-448c-992f-2197b941855a</guid>
+            <pubDate>Thu, 14 Jan 2016 16:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[40 Maltby street]]></title>
-            <description><![CDATA[<article><h1>40 Maltby street</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a5d549626d70f46a3912e2f9745935cb84440b1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>40 Maltby street</h1><p>I do like the concept of this restaurant. A small, weekly changing menu on the blackboard, some great wines by the glass. No reservations, and ordering at the bar. Have eaten here a few times now, and 40 Maltby Street is definitely one of my London favourites. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a5d549626d70f46a3912e2f9745935cb84440b1.jpg"></article>]]></description>
             <link>http://hvandenbergh.com/40-maltby-street/index.html</link>
             <guid isPermaLink="false">65206bd6-8545-452c-8c7e-9daa6255a096</guid>
             <pubDate>Thu, 14 Jan 2016 16:16:49 GMT</pubDate>
