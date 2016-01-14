@@ -6,22 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T14:47:53.331Z'
-dateModified: '2016-01-13T14:40:33.655Z'
+datePublished: '2016-01-14T16:34:39.024Z'
+dateModified: '2016-01-14T16:34:27.997Z'
 title: Some Shoreditch streetart
 author: []
+sourcePath: _posts/2016-01-13-some-shoreditch-streetart.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-some-shoreditch-streetart.md
-published: true
 url: some-shoreditch-streetart/index.html
 _type: Article
 
 ---
+Some streetart from Shoreditch
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/931e622f-80e0-4437-b162-3fdf072cb690.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e9f57a-ffa3-4021-a2e0-6bc28e60840d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3edf7418-67d8-44fd-b696-650abea26ab4.jpg)
