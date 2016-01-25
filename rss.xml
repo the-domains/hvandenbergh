@@ -4,15 +4,8 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:49:56 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Viewing the Shard from Millenium bridge.]]></title>
-            <description><![CDATA[<article><h1>Viewing the Shard from Millenium bridge.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30d7662b0f439189bf2ba46f12a877a2a628a56a.png"></article>]]></description>
-            <link>http://hvandenbergh.com/viewing-the-shard-from-millenium-bridge/index.html</link>
-            <guid isPermaLink="false">8d4638a8-e52c-41f7-a8db-83865825ef16</guid>
-            <pubDate>Mon, 25 Jan 2016 17:49:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sunset in London. Looking west from Millenium bridge ]]></title>
             <description><![CDATA[<article><h1>Sunset in London. Looking west from Millenium bridge </h1><p>Sunset in London. Looking west from Millenium bridge</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0b70718a8cd7aef5fb8524dc312baa1ed769070.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://hvandenbergh.com/40-maltby-street/index.html</link>
             <guid isPermaLink="false">65206bd6-8545-452c-8c7e-9daa6255a096</guid>
             <pubDate>Thu, 14 Jan 2016 16:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Shoreditch streetart]]></title>
+            <description><![CDATA[<article><h1>Some Shoreditch streetart</h1><p>Some streetart from Shoreditch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0b1a125828615867f5219f1c7d12b8e6f8e634e.jpg"></article>]]></description>
+            <link>http://hvandenbergh.com/some-shoreditch-streetart/index.html</link>
+            <guid isPermaLink="false">38096e9e-5523-4a52-9362-e7308d0e8cbe</guid>
+            <pubDate>Thu, 14 Jan 2016 16:34:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
