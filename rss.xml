@@ -4,11 +4,18 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 22:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 22:48:14 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Beautiful work by @elmoart in Shoreditch, London.]]></title>
+            <description><![CDATA[<article><h1>Beautiful work by @elmoart in Shoreditch, London.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b332d999-ec4b-42c3-91b4-41aa4aa647cd.png"></article>]]></description>
+            <link>http://hvandenbergh.com/beautiful-work-by-elmoart-in-shoreditch-london/index.html</link>
+            <guid isPermaLink="false">5d9f0661-7f15-4522-ab05-2fcc3f4845fa</guid>
+            <pubDate>Wed, 27 Jan 2016 22:46:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wanna try them all... As I am another day in London, probably return here tomorrow night again for dinner @40maltbystreet]]></title>
-            <description><![CDATA[<article><h1>Wanna try them all... As I am another day in London, probably return here tomorrow night again for dinner @40maltbystreet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/134179b637a1f880e063b1a6afddb23b4ca4aa77.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Wanna try them all... As I am another day in London, probably return here tomorrow night again for dinner @40maltbystreet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb550e462b2eda16241938f1ef2789d3cb5aca50.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BBDjT5DNxi6/</link>
             <guid isPermaLink="false">1d35e960-7e44-44bf-9098-05eb49f942f3</guid>
             <pubDate>Wed, 27 Jan 2016 22:46:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://hvandenbergh.com/sunset-in-london-looking-west-from-millenium-bridge/index.html</link>
             <guid isPermaLink="false">c1365d8c-16ba-4505-8212-4214fe65624c</guid>
             <pubDate>Mon, 25 Jan 2016 17:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A warm welcome at the hotel]]></title>
-            <description><![CDATA[<article><h1>A warm welcome at the hotel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3609a8685d36d96acf5d2ca05cab3dea66d12e8.png"></article>]]></description>
-            <link>http://hvandenbergh.com/a-warm-welcome-at-the-hotel/index.html</link>
-            <guid isPermaLink="false">ce6d1c32-55fe-4a60-a326-ec93db922381</guid>
-            <pubDate>Mon, 25 Jan 2016 17:49:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
