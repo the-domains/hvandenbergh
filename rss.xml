@@ -4,8 +4,15 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 16:20:18 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hario V60 filter coffee at 'Man met bril']]></title>
+            <description><![CDATA[<article><h1>Hario V60 filter coffee at 'Man met bril'</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35ced321-ade3-48b9-99ec-3536e0a2833a.png"></article>]]></description>
+            <link>http://hvandenbergh.com/hario-v60-filter-coffee-at-man-met-bril/index.html</link>
+            <guid isPermaLink="false">e49cf97b-76c3-4b21-a67d-4c01ebb9d6b7</guid>
+            <pubDate>Mon, 15 Feb 2016 16:19:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Streetart in Rotterdam, Netherlands. #streetartrotterdam #streetart #roffa #rotterdam #erasmusbrug #kubuswoningen #euromast]]></title>
             <description><![CDATA[<article><h1>Streetart in Rotterdam, Netherlands. #streetartrotterdam #streetart #roffa #rotterdam #erasmusbrug #kubuswoningen #euromast</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67bc960b09e6956573b02ff1d963a557ee592e39.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BBYWepVNxgB/</link>
             <guid isPermaLink="false">a26c7373-66ea-47bd-8d82-7ff18158490a</guid>
             <pubDate>Sun, 07 Feb 2016 20:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many km of running should this be? #running #nike #nikefuel]]></title>
-            <description><![CDATA[<article><h1>How many km of running should this be? #running #nike #nikefuel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc93d38cfe73d950f3f9f03c084bee74c149373b.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BBVM16Ytxlq/</link>
-            <guid isPermaLink="false">b0c729fd-7b2e-4cfa-844d-2dfb9e7d891d</guid>
-            <pubDate>Sun, 07 Feb 2016 20:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
