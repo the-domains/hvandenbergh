@@ -4,8 +4,15 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 17:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 17:51:38 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rotterdam streetart #rotterdam #roffa #streetartrotterdam #streetart #vsco #vscostreetart #vscostreet]]></title>
+            <description><![CDATA[<article><h1>Rotterdam streetart #rotterdam #roffa #streetartrotterdam #streetart #vsco #vscostreetart #vscostreet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb27be18cc14f4e9a1932c7d2b4071b69147767b.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCLjGZFtxmG/</link>
+            <guid isPermaLink="false">2b6c856c-f3bd-4dde-954f-09cb4fb4cff8</guid>
+            <pubDate>Wed, 02 Mar 2016 17:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Watching Cooked by @michaelpollan on Netflix. Must watch for foodies. http://youtu.be/epMAq5WYJk4</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://hvandenbergh.com/beetroot-cured-salmon-with-labneh/index.html</link>
             <guid isPermaLink="false">58cda8b1-9ed6-4178-a37e-e52ad7285e8b</guid>
             <pubDate>Mon, 15 Feb 2016 16:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mezze at Fenix Food Factory ]]></title>
-            <description><![CDATA[<article><h1>Mezze at Fenix Food Factory </h1><p>Mezze at Fenix Food Factory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/422f594c470afc56e93611d656a43f8dc89be61f.png"></article>]]></description>
-            <link>http://hvandenbergh.com/mezze-at-fenix-food-factory/index.html</link>
-            <guid isPermaLink="false">42fe2c21-19f6-44e9-9db7-a36de80b05ad</guid>
-            <pubDate>Mon, 15 Feb 2016 16:19:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
