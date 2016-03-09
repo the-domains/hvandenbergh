@@ -4,11 +4,18 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 17:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 17:49:08 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Escarole with sauce romesco ]]></title>
+            <description><![CDATA[<article><h1>Escarole with sauce romesco </h1><p>Escarole with sauce romesco</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a44dd13bfa3cc1da1c952d1d7809cc70a6d8a546.png"></article>]]></description>
+            <link>http://hvandenbergh.com/escarole-with-sauce-romesco/index.html</link>
+            <guid isPermaLink="false">6edf9ba6-ea2d-426a-aa13-0bdf3381926b</guid>
+            <pubDate>Wed, 09 Mar 2016 17:48:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazing piece @amarapordios did for Eastpak #streetart #shoreditch #london #vscostreetart]]></title>
-            <description><![CDATA[<article><h1>Amazing piece @amarapordios did for Eastpak #streetart #shoreditch #london #vscostreetart</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12818884_205610086462446_826409906_n.jpg?ig_cache_key=MTIwMTY2ODAwNTE5NjkyOTM2Nw%3D%3D.2"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazing piece @amarapordios did for Eastpak #streetart #shoreditch #london #vscostreetart</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b432e752e9d511bd70e914d2106dcb408a93140.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BCtLq8btxlX/</link>
             <guid isPermaLink="false">771093b1-eb8f-409e-bb3d-5d6a800119ec</guid>
             <pubDate>Wed, 09 Mar 2016 17:47:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/hvandenbergh/status/704021719598702592</link>
             <guid isPermaLink="false">3cfaa37a-e406-4be1-a5d6-e0af74dd73b0</guid>
             <pubDate>Wed, 02 Mar 2016 17:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rotterdam streetart #rotterdam #roffa #streetartrotterdam #streetart #vsco #vscostreetart #vscostreet]]></title>
-            <description><![CDATA[<article><h1>Rotterdam streetart #rotterdam #roffa #streetartrotterdam #streetart #vsco #vscostreetart #vscostreet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb27be18cc14f4e9a1932c7d2b4071b69147767b.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCLjGZFtxmG/</link>
-            <guid isPermaLink="false">2b6c856c-f3bd-4dde-954f-09cb4fb4cff8</guid>
-            <pubDate>Wed, 02 Mar 2016 17:50:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
