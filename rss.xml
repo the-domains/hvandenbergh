@@ -4,11 +4,18 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 16:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 17:48:51 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Basque]]></title>
+            <description><![CDATA[<article><h1>Basque</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43efc981a25c261a597ccb011d6e00b93cbdddc1.png"></article>]]></description>
+            <link>http://hvandenbergh.com/basque/index.html</link>
+            <guid isPermaLink="false">7b566a81-e0ee-4b86-8df9-6ea29e819256</guid>
+            <pubDate>Wed, 09 Mar 2016 17:47:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chocolat ]]></title>
-            <description><![CDATA[<article><h1>Chocolat </h1><p>Chocolat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3604a736-3029-4cb8-87fc-051d555db0db.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Chocolat </h1><p>Chocolat</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f986b59defeb877d3122873dc36e0125843aa30.png"></article>]]></description>
             <link>http://hvandenbergh.com/chocolat/index.html</link>
             <guid isPermaLink="false">8abfc2e6-8761-49f9-abbf-dfc3f0d953b8</guid>
             <pubDate>Tue, 08 Mar 2016 16:56:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/hvandenbergh/status/704370864712753153</link>
             <guid isPermaLink="false">e24277d8-8c6b-441d-a6b7-adefc22b0eb6</guid>
             <pubDate>Wed, 02 Mar 2016 17:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pork shoulder on the Big Green Egg. #bge #biggreenegg #bbq #vsco #vscofood]]></title>
-            <description><![CDATA[<article><h1>Pork shoulder on the Big Green Egg. #bge #biggreenegg #bbq #vsco #vscofood</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e7c84154066e942c64f9214a455257b53fd5a0.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCQbB2DtxjR/</link>
-            <guid isPermaLink="false">28f1632e-bcd0-46d1-895d-ed3f09a79fad</guid>
-            <pubDate>Wed, 02 Mar 2016 17:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
