@@ -4,8 +4,15 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 15:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 15:25:42 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#rotterdam #luchtsingel #vsco #vscostreet]]></title>
+            <description><![CDATA[<article><h1>#rotterdam #luchtsingel #vsco #vscostreet</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12826168_591202874370337_304863449_n.jpg?ig_cache_key=MTIwOTYxMjQxOTA2NDA3NzAxMw%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BDJaBYaNxrV/</link>
+            <guid isPermaLink="false">b3ef8064-3361-4a03-bda5-66feb2ddb913</guid>
+            <pubDate>Sun, 20 Mar 2016 15:24:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not just coffee @amsterdamcoffeefestival #acf2016 @crusiotea]]></title>
             <description><![CDATA[<article><h1>Not just coffee @amsterdamcoffeefestival #acf2016 @crusiotea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2050fafb21d90306042ccbc669bd42800befaf19.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCtLq8btxlX/</link>
             <guid isPermaLink="false">771093b1-eb8f-409e-bb3d-5d6a800119ec</guid>
             <pubDate>Wed, 09 Mar 2016 17:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Basque]]></title>
-            <description><![CDATA[<article><h1>Basque</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43efc981a25c261a597ccb011d6e00b93cbdddc1.png"></article>]]></description>
-            <link>http://hvandenbergh.com/basque/index.html</link>
-            <guid isPermaLink="false">7b566a81-e0ee-4b86-8df9-6ea29e819256</guid>
-            <pubDate>Wed, 09 Mar 2016 17:47:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
