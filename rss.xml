@@ -4,8 +4,15 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 15:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 15:19:42 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Not just coffee @amsterdamcoffeefestival #acf2016 @crusiotea]]></title>
+            <description><![CDATA[<article><h1>Not just coffee @amsterdamcoffeefestival #acf2016 @crusiotea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2050fafb21d90306042ccbc669bd42800befaf19.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BDF2qNjNxqE/</link>
+            <guid isPermaLink="false">2a1c1a04-cc57-4e58-997a-242f64122e6f</guid>
+            <pubDate>Sun, 20 Mar 2016 15:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wooden coffee filter. Actual filter is metal. Tasted really good and looks great #acf2016 #coffee #filtercoffee]]></title>
             <description><![CDATA[<article><h1>Wooden coffee filter. Actual filter is metal. Tasted really good and looks great #acf2016 #coffee #filtercoffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f54c530782cb5d6428342612979e7a97a8a7d72c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://hvandenbergh.com/basque/index.html</link>
             <guid isPermaLink="false">7b566a81-e0ee-4b86-8df9-6ea29e819256</guid>
             <pubDate>Wed, 09 Mar 2016 17:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chocolat ]]></title>
-            <description><![CDATA[<article><h1>Chocolat </h1><p>Chocolat</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f986b59defeb877d3122873dc36e0125843aa30.png"></article>]]></description>
-            <link>http://hvandenbergh.com/chocolat/index.html</link>
-            <guid isPermaLink="false">8abfc2e6-8761-49f9-abbf-dfc3f0d953b8</guid>
-            <pubDate>Tue, 08 Mar 2016 16:56:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
