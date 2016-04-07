@@ -4,8 +4,15 @@
         <description><![CDATA[hvandenbergh]]></description>
         <link>http://hvandenbergh.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 14:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 19:14:45 GMT</lastBuildDate>
         <atom:link href="http://hvandenbergh.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Beautiful Budapestpic.twitter.com/wm2qqTvJKE" src="https://pbs.twimg.com/media/CfV68fVXIAA6KF_.jpg:large">]]></description>
+            <link>https://twitter.com/hvandenbergh/status/717614895785766912</link>
+            <guid isPermaLink="false">62bb5053-30f8-41e4-b9dd-4e5a65071989</guid>
+            <pubDate>Thu, 07 Apr 2016 19:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Part of a great work by @alicepasquini in Camden. #streetart #london #vsco #vscostreetart]]></title>
             <description><![CDATA[<article><h1>Part of a great work by @alicepasquini in Camden. #streetart #london #vsco #vscostreetart</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/572fae619869e61af708acd1bfd312d348ced3f6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BDGdshGtxnw/</link>
             <guid isPermaLink="false">04e95868-e4a0-4d31-b14c-6fdb560c3a61</guid>
             <pubDate>Sun, 20 Mar 2016 15:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I love rhubarb. This dish with pain perdu is absolutely perfect @40maltbystreet #40maltbystreet]]></title>
-            <description><![CDATA[<article><h1>I love rhubarb. This dish with pain perdu is absolutely perfect @40maltbystreet #40maltbystreet</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4709bf37baa4f440ffd9d4141f8bd81991fe0460.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCvz54GNxvz/</link>
-            <guid isPermaLink="false">5a00c38e-b354-4a93-ad7a-f27cc7af3215</guid>
-            <pubDate>Sun, 20 Mar 2016 14:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
